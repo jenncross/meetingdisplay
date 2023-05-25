@@ -1,9 +1,8 @@
-# Sitincator
+# Forked from Sitincator
+----------------
+----------------
 
-## Warning
-**We are no longer actively maintaining this. You are welcome to fork the repository and contribute there.**
-
-
+#  Sitincator
 ![Sitincator](https://github.com/simplificator/sitincator/raw/gh-pages/images/sitincator.png)
 
 `Sitincator` is [Simplificator's](https://www.simplificator.com) meeting room display system. It consists of a React/Electron app running on a Raspberry Pi 3, which is connected to a touch screen display.
